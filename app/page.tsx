@@ -125,7 +125,7 @@ export default function Home() {
         <a href="#" className="brand footer-brand"><span className="brand-mark">J</span><span>japa<span className="brand-accent">send</span></span></a>
         <span className="footer-note">Your money. Your people. Your home.</span>
         <div className="footer-links"><a href="mailto:hello@japasend.com">Contact</a><a href="#our-purpose">About</a></div>
-        <span className="copyright">© {new Date().getFullYear()} JapaSend. Made with home in mind.</span>
+        <span className="copyright">© 2026 JapaSend. Made with home in mind.</span>
       </footer>
     </main>
   );
